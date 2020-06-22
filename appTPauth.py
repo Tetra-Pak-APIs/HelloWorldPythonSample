@@ -4,7 +4,11 @@
 # - Flask - a simple API/Web development frameword
 # - WebApplicationClient - lib to performe oAuth authentication
 #
-# To Use:
+# Prerequisites:
+# - Python installed
+# - Pip installed
+#
+# # To Use:
 # 0. To install dependencies run: pip install -r requirements.txt
 # 1. Go to developer.tetrapak.com and register an account
 # 2. In the portal. Create a new application.
