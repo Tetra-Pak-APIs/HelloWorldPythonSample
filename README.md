@@ -26,7 +26,7 @@ In particular the script uses two important libraries
 5. Access using your browser <https://127.0.0.1:5000>
 
 To read more about OAuth visit
-<https://developer.tetrapak.com/documentation/introduction-oauth>
+<https://developer.tetrapak.com/products/tetra-pak-enterprise-security/introduction-oauth>
 
 The script is inspired by the following blog post
 <https://realpython.com/flask-google-login/>
